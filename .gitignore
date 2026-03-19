@@ -1,0 +1,11 @@
+telemetry/
+cache/
+session-env/
+history.jsonl
+backups/
+tasks/
+teams/
+shell-snapshots/
+file-history/
+plans/
+projects/**/*.jsonl
